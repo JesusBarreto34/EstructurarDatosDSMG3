@@ -1,9 +1,11 @@
-# Ejerciós Matrices
-1.objetivo:
+## Ejerciós Matrices
+
+--1.objetivo:
 
 Aplicar la lógica bidimensionales o (también matrices) en java utilizado el paradigma de poo implementando validaciones de dimensiones recorrido de índices y encapsulación
 
 ## Ejerció 1: Sistema de Reserva de asientos
+
 Diseña un método que se llame reserva de asientos y debe de recibir una columna y una columna que controle el mapa de ocupación de un teatro o sala  la matrice iniciara en 0 y eso significa libre
 
 si el asiento solicitado contiene cero cámbialo a 1 **(ocupado y muestre ocupado)**
@@ -16,13 +18,13 @@ validar que las coordenadas no excedan los limites de la matrice
 
 Una empresa registra las ventas de M sucursales  M meses
 
-*implementar un método que calcule la  suma por fila  (total *suma)
+*implementar un método que calcule la  suma por fila  (total*suma)
 
-*Calcular la suma por cada columna (total * mese )
+*Calcular la suma por cada columna (total* mese )
 
 *genera un reporte formateado que muestre ambos totales
 
-##Ejerció 3 : diagnostico de matrices de identidad (m*n)
+## Ejerció 3 : diagnostico de matrices de identidad (m*n)
 
 1.-Implementa un modulo para análisis algebraico :
 validación previas en negritas
@@ -33,7 +35,7 @@ sino lo es cancela la operación muestra un mensaje de advertencia
 
 3.- Calcula y imprime la suma en la diagonal principal.
 
-##Ejerció 4 : Transposición dinámica de matrices (M x N -> N x M ).
+## Ejerció 4 : Transposición dinámica de matrices (M x N -> N x M )
 
 1.- Crea un método obtener respuesta que invierta la orientación de los datos
 
@@ -48,13 +50,13 @@ sino lo es cancela la operación muestra un mensaje de advertencia
 2.-Validar que la matrices sea cuadrada
 
 3.-Retorna  90  grados a la derecha
- 
-## Ejercios de  Recursividad 
 
-* Sumar numero de n a m 
+## Ejercios de  Recursividad
 
-* Factorial de un numero 
+* Sumar numero de n a m
 
-* Multimplicacion de sumas 
+* Factorial de un numero
 
-* potencia por medio de potencia 
+* Multimplicacion de sumas
+
+* potencia por medio de potencia

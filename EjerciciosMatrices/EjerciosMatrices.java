@@ -4,13 +4,13 @@ public class EjerciosMatrices {
     private int filas;
     private int columnas;
 
-    public Matrices(int filas, int columnas) {
+    public void Matrices(int filas, int columnas) {
         this.filas = filas;
         this.columnas = columnas;
         this.matriz = new int[filas][columnas];
     }
 
-    public Matrices(int[][] matriz) {
+    public void Matrices(int[][] matriz) {
         this.filas = matriz.length;
         this.columnas = matriz[0].length;
         this.matriz = new int[filas][columnas];

@@ -1,5 +1,3 @@
-package mx.edu.uttt.tda.vectores;
-
 public class Empleado {
     private String numeroNomina;
     private String sexo;

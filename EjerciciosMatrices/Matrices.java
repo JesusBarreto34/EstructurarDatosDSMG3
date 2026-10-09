@@ -1,6 +1,7 @@
 public class Matrices {
 
     private int[][] m;
+    public int[][] matriz;
 
     public Matrices() {
         m = new int[2][2];
